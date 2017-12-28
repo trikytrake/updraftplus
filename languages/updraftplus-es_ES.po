@@ -12,15 +12,15 @@ msgstr ""
 
 #: methods/updraftvault.php:278
 msgid "Don't know your email address, or forgotten your password?"
-msgstr ""
+msgstr "¿No sabes tu correo electrónico, u olvidaste tu contraseña?"
 
 #: methods/updraftvault.php:236 methods/updraftvault.php:263
 msgid "Read the FAQs here."
-msgstr ""
+msgstr "Lee las FAQs aquí"
 
 #: methods/updraftvault.php:271
 msgid "Enter your UpdraftPlus.Com email / password here to connect:"
-msgstr ""
+msgstr "Introduce tu correo electrónico de UpdraftPlus.com / contraseña aquí para conectar:"
 
 #: addons/s3-enhanced.php:42
 msgid "Server-side encryption"
